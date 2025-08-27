@@ -1,0 +1,27 @@
+header {
+  background-color: #0E0E0E;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  h1 {
+    color: #FFFFFF;
+  }
+
+  nav {
+
+    a {
+      text-decoration: none;
+      color: #FFFFFF;
+    }
+
+  }
+
+  h6 {
+    color: white;
+  }
+}
+
+.spas {
+  height: 1px;
+}

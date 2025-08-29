@@ -20,8 +20,8 @@ export default function Section() {
                 <p>Experience natural, lifelike audio and exceptional build quality made for the passionate music enthusiast</p>
                 <button>See Product</button>
             </aside>
-            <article className='col-7 '>
-                <img src={img} alt="img"  className='col-12 h-100'/>
+            <article className='col-7 article'>
+                <img src={img} alt="img"  className='col-12 '/>
             </article>
         </section>
     );

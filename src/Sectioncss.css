@@ -1,8 +1,10 @@
 section {
+ overflow: hidden;
     height: 100vh;
     background-color: #0E0E0E;
 
     aside {
+        background-color: #0E0E0E;
         display: flex;
         height: 100%;
         justify-content: center;
@@ -28,6 +30,7 @@ section {
             font-size: 1rem;
             color: #C4C4C4;
         }
+
         button {
             width: 10rem;
             height: 3rem;
@@ -38,6 +41,17 @@ section {
             font-size: 1rem;
             font-weight: 500;
             cursor: pointer;
+        }
+    }
+
+    .article {
+        overflow: hidden;
+        height: 100%;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
         }
     }
 }

@@ -1,8 +1,10 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
 header {
   background-color: #0E0E0E;
   display: flex;
   align-items: center;
   justify-content: space-around;
+  padding: 1rem;
 
   h1 {
     color: #FFFFFF;
@@ -17,10 +19,13 @@ header {
 
   }
 
-  h6 {
-    color: white;
-  }
+#icon{
+  color: white;
+  font-size: 1.5rem;
+  margin-left: 10px;
 }
+}
+
 
 .spas {
   height: 1px;

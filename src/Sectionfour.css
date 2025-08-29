@@ -1,0 +1,19 @@
+.sectionfour{
+    height: 320px;
+    background: url(./img/sapstand.png);
+    background-size: cover;
+   
+    background-position: bottom;
+    border-radius: 1rem;
+    justify-content: end;
+   button{
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem ;
+    
+    background-color: #ffffff1c;
+    color: black;
+    font-size: 1rem;
+   }
+    
+}

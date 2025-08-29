@@ -1,0 +1,28 @@
+.sectionsix {
+    .sectionsixleft {
+        h1 {
+            text-transform: uppercase;
+        }
+
+        span {
+            margin: 0 11px 0 11px;
+        }
+    }
+
+    .sectionsixright {
+        height: 588px;
+        background: url(./img/sh5s.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 1rem;
+
+        .filtar {
+            z-index: 100;
+            height: 100%;
+            width: 100%;
+            background-color: #00000073;
+            border-radius: 1rem;
+        }
+    }
+}

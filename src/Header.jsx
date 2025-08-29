@@ -10,7 +10,7 @@ export default function Header() {
                     <a href="#HEADPHONES">SPEAKERS</a>
                     <a href="#HEADPHONES">EARPHONES</a>
             </nav>
-            <h6>icon</h6>
+            <i className="bi bi-cart" id='icon'></i>
         </header>
          <div className='spas col-12 bg-white'></div>
         </>

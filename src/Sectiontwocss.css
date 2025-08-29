@@ -1,0 +1,19 @@
+.sectiontwo {
+    background-color: white;
+    
+    article {
+        
+        padding: 5rem;
+        margin-top: 5rem;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        img{
+            bottom: -58px;
+        }
+        .son{
+            background-color: #F1F1F1;
+            border-radius: 1rem;
+        }
+    }
+}

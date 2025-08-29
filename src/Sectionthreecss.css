@@ -1,0 +1,30 @@
+section {
+    background-color: white;
+
+    #row {
+        display: flex;
+        background-color: #D87D4A;
+        overflow: hidden;
+        height: 560px;
+        border-radius: 1rem;
+        h1{
+            color: #FFFFFF;
+        }
+        p{
+            color: #FFFFFF;
+        }
+        button{
+            background-color: #000000;
+            color: #FFFFFF;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+        img {
+            width: 100%;
+        }
+    }
+}

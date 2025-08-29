@@ -1,0 +1,25 @@
+.sectionfive {
+    .sectionfive-left {
+        width: 540px;
+        height: 320px;
+        border-radius: 1rem;
+        background-color: #F1F1F1;
+        button{
+            width: 120px;
+            height: 40px;
+            border-radius: 5px ;
+            /* border: ; */
+            color: black;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    }
+
+    .sectionfive-right {
+        width: 540px;
+        height: 320px;
+        background: url(./img/erpoods.png) no-repeat center;
+        border-radius: 1rem;
+
+    }
+}

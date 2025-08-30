@@ -1,6 +1,6 @@
 import './Sectionfour.css';
 import sapstand from './img/sapstand.png';
-export const Sectionfour = () => {
+export default  function Sectionfour  () {
     return (
         <>
             <div className='sectionfour  overflow-hidden d-flex  container'>

@@ -19,9 +19,9 @@ export default function Footer() {
                             <p>Copyright 2021. All Rights Reserved</p>
                         </div>
                         <div className='col-6 d-flex justify-content-end align-items-center mt-4 gap-3'>
-                            <i class="bi bi-facebook" id='icon' ></i>
-                            <i class="bi bi-twitter" id='icon' ></i>
-                            <i class="bi bi-instagram" id='icon' ></i>
+                            <i className="bi bi-facebook" id='icon' ></i>
+                            <i className="bi bi-twitter" id='icon' ></i>
+                            <i className="bi bi-instagram" id='icon' ></i>
                         </div>
                     </div>
 
